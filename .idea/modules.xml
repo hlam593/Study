@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty/Netty.iml" filepath="$PROJECT_DIR$/Netty/Netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Study.iml" filepath="$PROJECT_DIR$/.idea/Study.iml" />
     </modules>
