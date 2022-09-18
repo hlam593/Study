@@ -4,6 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Netty/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/dubbo-spring-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/dubbo-demo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/dubbo-demo-api/pom.xml" />
+        <option value="$PROJECT_DIR$/Dubbo/dubbo-demo-consumer/pom.xml" />
       </list>
     </option>
   </component>

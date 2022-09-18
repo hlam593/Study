@@ -4,8 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/Dubbo.iml" filepath="$PROJECT_DIR$/Dubbo/Dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty/Netty.iml" filepath="$PROJECT_DIR$/Netty/Netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Study.iml" filepath="$PROJECT_DIR$/.idea/Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo-demo-consumer/dubbo-demo-consumer.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo-demo-consumer/dubbo-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo-demo-provider/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo-demo-provider/dubbo-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbo/dubbo-spring-demo/dubbo-spring-demo.iml" filepath="$PROJECT_DIR$/Dubbo/dubbo-spring-demo/dubbo-spring-demo.iml" />
     </modules>
   </component>
 </project>
